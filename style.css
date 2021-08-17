@@ -1,0 +1,20 @@
+.container {
+  margin: auto;
+  width: 50%;
+  margin-top: 20%;
+  border: 2px solid black;
+  padding: 10px;
+  background-color: silver;
+}
+
+#btn {
+  background-color: aquamarine;
+  width: 30%;
+  margin: auto;
+  margin-left: 50%;
+}
+
+h2 {
+  font-size: 31px;
+  color: red;
+}
